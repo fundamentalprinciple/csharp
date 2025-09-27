@@ -1,0 +1,15 @@
+/home/princedixit/csharp/firstConsoleAppFromCLI/bin/Debug/net9.0/firstConsoleAppFromCLI
+/home/princedixit/csharp/firstConsoleAppFromCLI/bin/Debug/net9.0/firstConsoleAppFromCLI.deps.json
+/home/princedixit/csharp/firstConsoleAppFromCLI/bin/Debug/net9.0/firstConsoleAppFromCLI.runtimeconfig.json
+/home/princedixit/csharp/firstConsoleAppFromCLI/bin/Debug/net9.0/firstConsoleAppFromCLI.dll
+/home/princedixit/csharp/firstConsoleAppFromCLI/bin/Debug/net9.0/firstConsoleAppFromCLI.pdb
+/home/princedixit/csharp/firstConsoleAppFromCLI/obj/Debug/net9.0/firstConsoleAppFromCLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/princedixit/csharp/firstConsoleAppFromCLI/obj/Debug/net9.0/firstConsoleAppFromCLI.AssemblyInfoInputs.cache
+/home/princedixit/csharp/firstConsoleAppFromCLI/obj/Debug/net9.0/firstConsoleAppFromCLI.AssemblyInfo.cs
+/home/princedixit/csharp/firstConsoleAppFromCLI/obj/Debug/net9.0/firstConsoleAppFromCLI.csproj.CoreCompileInputs.cache
+/home/princedixit/csharp/firstConsoleAppFromCLI/obj/Debug/net9.0/firstConsoleAppFromCLI.sourcelink.json
+/home/princedixit/csharp/firstConsoleAppFromCLI/obj/Debug/net9.0/firstConsoleAppFromCLI.dll
+/home/princedixit/csharp/firstConsoleAppFromCLI/obj/Debug/net9.0/refint/firstConsoleAppFromCLI.dll
+/home/princedixit/csharp/firstConsoleAppFromCLI/obj/Debug/net9.0/firstConsoleAppFromCLI.pdb
+/home/princedixit/csharp/firstConsoleAppFromCLI/obj/Debug/net9.0/firstConsoleAppFromCLI.genruntimeconfig.cache
+/home/princedixit/csharp/firstConsoleAppFromCLI/obj/Debug/net9.0/ref/firstConsoleAppFromCLI.dll
