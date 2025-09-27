@@ -1,0 +1,15 @@
+/home/princedixit/csharp/inputCLI/bin/Debug/net9.0/inputCLI
+/home/princedixit/csharp/inputCLI/bin/Debug/net9.0/inputCLI.deps.json
+/home/princedixit/csharp/inputCLI/bin/Debug/net9.0/inputCLI.runtimeconfig.json
+/home/princedixit/csharp/inputCLI/bin/Debug/net9.0/inputCLI.dll
+/home/princedixit/csharp/inputCLI/bin/Debug/net9.0/inputCLI.pdb
+/home/princedixit/csharp/inputCLI/obj/Debug/net9.0/inputCLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/princedixit/csharp/inputCLI/obj/Debug/net9.0/inputCLI.AssemblyInfoInputs.cache
+/home/princedixit/csharp/inputCLI/obj/Debug/net9.0/inputCLI.AssemblyInfo.cs
+/home/princedixit/csharp/inputCLI/obj/Debug/net9.0/inputCLI.csproj.CoreCompileInputs.cache
+/home/princedixit/csharp/inputCLI/obj/Debug/net9.0/inputCLI.sourcelink.json
+/home/princedixit/csharp/inputCLI/obj/Debug/net9.0/inputCLI.dll
+/home/princedixit/csharp/inputCLI/obj/Debug/net9.0/refint/inputCLI.dll
+/home/princedixit/csharp/inputCLI/obj/Debug/net9.0/inputCLI.pdb
+/home/princedixit/csharp/inputCLI/obj/Debug/net9.0/inputCLI.genruntimeconfig.cache
+/home/princedixit/csharp/inputCLI/obj/Debug/net9.0/ref/inputCLI.dll
