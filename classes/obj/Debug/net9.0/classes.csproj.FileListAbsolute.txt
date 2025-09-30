@@ -1,0 +1,15 @@
+/home/princedixit/csharp/classes/bin/Debug/net9.0/classes
+/home/princedixit/csharp/classes/bin/Debug/net9.0/classes.deps.json
+/home/princedixit/csharp/classes/bin/Debug/net9.0/classes.runtimeconfig.json
+/home/princedixit/csharp/classes/bin/Debug/net9.0/classes.dll
+/home/princedixit/csharp/classes/bin/Debug/net9.0/classes.pdb
+/home/princedixit/csharp/classes/obj/Debug/net9.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/princedixit/csharp/classes/obj/Debug/net9.0/classes.AssemblyInfoInputs.cache
+/home/princedixit/csharp/classes/obj/Debug/net9.0/classes.AssemblyInfo.cs
+/home/princedixit/csharp/classes/obj/Debug/net9.0/classes.csproj.CoreCompileInputs.cache
+/home/princedixit/csharp/classes/obj/Debug/net9.0/classes.sourcelink.json
+/home/princedixit/csharp/classes/obj/Debug/net9.0/classes.dll
+/home/princedixit/csharp/classes/obj/Debug/net9.0/refint/classes.dll
+/home/princedixit/csharp/classes/obj/Debug/net9.0/classes.pdb
+/home/princedixit/csharp/classes/obj/Debug/net9.0/classes.genruntimeconfig.cache
+/home/princedixit/csharp/classes/obj/Debug/net9.0/ref/classes.dll
