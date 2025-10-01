@@ -1,0 +1,15 @@
+/home/princedixit/csharp/conditionals/bin/Debug/net9.0/conditionals
+/home/princedixit/csharp/conditionals/bin/Debug/net9.0/conditionals.deps.json
+/home/princedixit/csharp/conditionals/bin/Debug/net9.0/conditionals.runtimeconfig.json
+/home/princedixit/csharp/conditionals/bin/Debug/net9.0/conditionals.dll
+/home/princedixit/csharp/conditionals/bin/Debug/net9.0/conditionals.pdb
+/home/princedixit/csharp/conditionals/obj/Debug/net9.0/conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/home/princedixit/csharp/conditionals/obj/Debug/net9.0/conditionals.AssemblyInfoInputs.cache
+/home/princedixit/csharp/conditionals/obj/Debug/net9.0/conditionals.AssemblyInfo.cs
+/home/princedixit/csharp/conditionals/obj/Debug/net9.0/conditionals.csproj.CoreCompileInputs.cache
+/home/princedixit/csharp/conditionals/obj/Debug/net9.0/conditionals.sourcelink.json
+/home/princedixit/csharp/conditionals/obj/Debug/net9.0/conditionals.dll
+/home/princedixit/csharp/conditionals/obj/Debug/net9.0/refint/conditionals.dll
+/home/princedixit/csharp/conditionals/obj/Debug/net9.0/conditionals.pdb
+/home/princedixit/csharp/conditionals/obj/Debug/net9.0/conditionals.genruntimeconfig.cache
+/home/princedixit/csharp/conditionals/obj/Debug/net9.0/ref/conditionals.dll

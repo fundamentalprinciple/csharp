@@ -1,0 +1,15 @@
+/home/princedixit/csharp/array/bin/Debug/net9.0/array
+/home/princedixit/csharp/array/bin/Debug/net9.0/array.deps.json
+/home/princedixit/csharp/array/bin/Debug/net9.0/array.runtimeconfig.json
+/home/princedixit/csharp/array/bin/Debug/net9.0/array.dll
+/home/princedixit/csharp/array/bin/Debug/net9.0/array.pdb
+/home/princedixit/csharp/array/obj/Debug/net9.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/princedixit/csharp/array/obj/Debug/net9.0/array.AssemblyInfoInputs.cache
+/home/princedixit/csharp/array/obj/Debug/net9.0/array.AssemblyInfo.cs
+/home/princedixit/csharp/array/obj/Debug/net9.0/array.csproj.CoreCompileInputs.cache
+/home/princedixit/csharp/array/obj/Debug/net9.0/array.sourcelink.json
+/home/princedixit/csharp/array/obj/Debug/net9.0/array.dll
+/home/princedixit/csharp/array/obj/Debug/net9.0/refint/array.dll
+/home/princedixit/csharp/array/obj/Debug/net9.0/array.pdb
+/home/princedixit/csharp/array/obj/Debug/net9.0/array.genruntimeconfig.cache
+/home/princedixit/csharp/array/obj/Debug/net9.0/ref/array.dll
